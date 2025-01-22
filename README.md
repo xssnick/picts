@@ -3,3 +3,4 @@
 <img width="1" alt="2024_games" src="https://github.com/user-attachments/assets/230a561b-2f0a-432b-b1aa-1fec957c6ac0" />
 <img width="1" alt="2024_numbers" src="https://github.com/user-attachments/assets/be70f0af-c8a3-46c9-9dcd-c9901ffb3087" />
 <img width="1" alt="2024_peaks" src="https://github.com/user-attachments/assets/0ffe04e1-7e58-4551-855e-7809734b4baa" />
+<img width="1" alt="Screenshot 2025-01-22 at 16 25 09" src="https://github.com/user-attachments/assets/cb3b42cb-7804-4379-8b8a-05298ab4cce8" />
